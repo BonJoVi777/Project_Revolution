@@ -1,0 +1,3 @@
+s = "privit"
+print(s)
+
