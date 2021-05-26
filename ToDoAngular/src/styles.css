@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+input.ng-valid{
+    border-color: dodgerblue;
+}
+select.ng-dirty{
+    border-color: dodgerblue;
+}
+input.ng-touched.ng-invalid{
+   border-color: red;
+}
+
+.green-icon{
+    color: dodgerblue;
+}
+.red-icon{
+    color: red;
+}
+*{
+    max-width: 100%;
+}
+.green{
+    color: dodgerblue;
+}
+.red{
+    color: red;
+}
