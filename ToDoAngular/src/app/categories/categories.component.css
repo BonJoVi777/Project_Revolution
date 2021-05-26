@@ -1,0 +1,68 @@
+table{
+    width: 40%;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    
+    font-size: 15px;
+    
+    font-family: 'Kumbh Sans', sans-serif;
+
+}
+.btn btn-outline-primary btn-lg{
+    margin: 5%;
+    background-color: dodgerblue;
+    font-family: 'Kumbh Sans', sans-serif;
+    
+}
+.btn{
+    font-weight: 600;
+}
+.button-group{
+    
+    
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+    
+}
+h2{
+    font-family: 'Teko', sans-serif;
+    text-align: center;
+    color: dodgerblue;
+    font-size: 80px;
+}
+
+
+.btn-lg{
+    width:99%;
+    padding: 0;
+    font-size: 30px;
+    margin:1%;
+}
+.row{
+    margin-top:3%;
+}
+#delete-button{
+    padding: 0;
+    color: crimson;
+    border-color: white;
+    margin-left: 50%;
+}
+#button-add{
+    margin-top: 4%;
+   
+}
+th{
+    width: 15%;
+    font-weight: 400;
+    font-size: 20px;
+}
+input{
+    padding-top: 3%;
+    font-size: 20px;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+.btn-block{
+    padding: 2.5%;
+}

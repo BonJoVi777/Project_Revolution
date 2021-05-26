@@ -1,0 +1,43 @@
+header{
+    background: dodgerblue ;
+	/* make a row */
+	display: flex; 
+	align-items: center;
+	/* make a space  */
+     justify-content: space-between;
+     padding: 1%;
+     width: 100%;
+
+	
+}
+.logo{
+    font-size: 50px;
+    font-family: 'Teko', sans-serif;
+    color: white;
+    margin-left: 5%;
+    display: inline;
+   
+}
+a{
+    font-size: 50px;
+    font-family: 'Teko', sans-serif;
+    color: white;
+
+    
+}
+li{
+    display: inline;
+    margin-right: 15%;
+    
+}
+
+ul{
+    margin: 0;
+    
+}
+header{
+    line-height: 0.9;
+}
+.header-right{
+    margin-right: 14%;
+}
